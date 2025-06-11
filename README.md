@@ -1,1 +1,1 @@
-# Named-Entity-Reccognition-Using-SpaCy
+# Named-Entity-Recognition-Using-SpaCy
